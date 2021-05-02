@@ -10,7 +10,10 @@
       }
     ],
     "solutions": [
-      { "name": "Brute Force", "files": ["clone-graph.py"] },
+      {
+        "name": "Brute Force",
+        "files": ["clone-graph.py", "clone-graph.java"]
+      },
       { "name": "Using DFS Approach", "files": ["course-schedule.py"] }
     ]
   }
