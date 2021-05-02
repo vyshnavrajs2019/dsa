@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "clone-graph",
+    "name": "Clone Graph",
     "difficulty": "Medium",
     "companiesAsked": ["Amazon", "Google", "Netflix", "Square"],
     "question": [
