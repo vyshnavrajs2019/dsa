@@ -17,6 +17,10 @@
       {
         "name": "Sorting Approach",
         "files": ["two-sum-sorting.py", "two-sum-sorting.js"]
+      },
+      {
+        "name": "Hashmap Approach",
+        "files": ["two-sum-hashmap.py", "two-sum-hashmap.js"]
       }
     ]
   }

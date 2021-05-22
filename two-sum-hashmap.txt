@@ -1,0 +1,1 @@
+The idea is to use a hash map to keep track of all the numbers that we have encountered. Loop over the array and check if the value, target - current element value, exist in the hashmap. If exist return true else add the current element value into the hashmap.
