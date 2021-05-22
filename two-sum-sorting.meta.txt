@@ -1,0 +1,1 @@
+The idea is to sort the array in increasing order such that if we take any pair ([i, j], where i < j, i and j are indices) of elements in the array, the sum of elements at i and j is always less than or equal to sum of elements at indices i + 1 and j. Also the sum of elements at i and j - 1 is always less than or equal to the sum of elements at i and j.

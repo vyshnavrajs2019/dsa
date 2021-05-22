@@ -387,6 +387,10 @@
       {
         "name": "Brute Force",
         "files": ["two-sum.py", "two-sum.js"]
+      },
+      {
+        "name": "Sorting",
+        "files": ["two-sum-sorting.py", "two-sum-sorting.js"]
       }
     ]
   }
