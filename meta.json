@@ -11,11 +11,11 @@
     ],
     "solutions": [
       {
-        "name": "Brute Force",
+        "name": "Brute Force Approach",
         "files": ["two-sum.py", "two-sum.js"]
       },
       {
-        "name": "Sorting",
+        "name": "Sorting Approach",
         "files": ["two-sum-sorting.py", "two-sum-sorting.js"]
       }
     ]
