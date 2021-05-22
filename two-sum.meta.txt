@@ -1,0 +1,1 @@
+Loop over the array in such a way that at each index check if any elements on the right side of the current index can form a sum equal to the target with the element at the current index. If any such pair exists return true else return false.
